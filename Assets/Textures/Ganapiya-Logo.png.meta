@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: ed31a08e907e55b499b57d6c6a611deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5271849010341320654
+    second: GanapiyaLogo_0
+  - first:
+      213: 4880740658809645127
+    second: GanapiyaLogo_1
+  - first:
+      213: -5350693812969725543
+    second: GanapiyaLogo_2
+  - first:
+      213: -6414936100506114291
+    second: GanapiyaLogo_3
+  - first:
+      213: -6937020971878186524
+    second: GanapiyaLogo_4
+  - first:
+      213: 7620079420258988080
+    second: GanapiyaLogo_5
+  - first:
+      213: -6596778884674784770
+    second: GanapiyaLogo_6
+  - first:
+      213: -6062078716463250069
+    second: GanapiyaLogo_7
+  - first:
+      213: -4771001953537982110
+    second: GanapiyaLogo_8
+  - first:
+      213: -3361753599781752627
+    second: GanapiyaLogo_9
+  - first:
+      213: -4338976606464041974
+    second: GanapiyaLogo_10
+  - first:
+      213: -4406862406961408786
+    second: GanapiyaLogo_11
+  - first:
+      213: -7690486046205115273
+    second: GanapiyaLogo_12
+  - first:
+      213: 1180720088160310569
+    second: GanapiyaLogo_13
+  - first:
+      213: -7249434920799442653
+    second: GanapiyaLogo_14
+  - first:
+      213: -4082331629499157964
+    second: GanapiyaLogo_15
+  - first:
+      213: 2250315920834079756
+    second: GanapiyaLogo_16
+  - first:
+      213: 7776088940692005584
+    second: GanapiyaLogo_17
+  - first:
+      213: 7242360938266461703
+    second: GanapiyaLogo_18
+  - first:
+      213: -7482886568365626446
+    second: GanapiyaLogo_19
+  - first:
+      213: -3353147218527570752
+    second: GanapiyaLogo_20
+  - first:
+      213: 7471020364259048145
+    second: GanapiyaLogo_21
+  - first:
+      213: 7170782018558641823
+    second: GanapiyaLogo_22
+  - first:
+      213: -1548887228289410430
+    second: GanapiyaLogo_23
+  - first:
+      213: 8509283104636927070
+    second: GanapiyaLogo_24
+  - first:
+      213: 1922514063029405568
+    second: GanapiyaLogo_25
+  - first:
+      213: -2854177614128984746
+    second: GanapiyaLogo_26
+  - first:
+      213: 193959022962101631
+    second: GanapiyaLogo_27
+  - first:
+      213: 5384207127589144780
+    second: GanapiyaLogo_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GanapiyaLogo_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 296
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec793e25ebe592940800000000000000
+      internalID: 5271849010341320654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a72915cfdbb340800000000000000
+      internalID: 4880740658809645127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9912f0883548eb5b0800000000000000
+      internalID: -5350693812969725543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 87
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e088ba9199f6a0800000000000000
+      internalID: -6414936100506114291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 71
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e104c31e20cabf90800000000000000
+      internalID: -6937020971878186524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 149
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0303dcc1cd5ffb960800000000000000
+      internalID: 7620079420258988080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 87
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1792d3e888374a0800000000000000
+      internalID: -6596778884674784770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 71
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6580c0968b2fdba0800000000000000
+      internalID: -6062078716463250069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 87
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618ca8400ff9cdb0800000000000000
+      internalID: -4771001953537982110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc03e9e89e6a851d0800000000000000
+      internalID: -3361753599781752627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1bfae3cbd8c3c0800000000000000
+      internalID: -4338976606464041974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4da0b4dfda7d2c0800000000000000
+      internalID: -4406862406961408786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77488d9dfa7e54590800000000000000
+      internalID: -7690486046205115273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92596f91aa2c26010800000000000000
+      internalID: 1180720088160310569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ef634955d46b90800000000000000
+      internalID: -7249434920799442653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4327c581305a857c0800000000000000
+      internalID: -4082331629499157964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca8b5486aba3f10800000000000000
+      internalID: 2250315920834079756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 15
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26acb21b73aeb60800000000000000
+      internalID: 7776088940692005584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7068984d6e8028460800000000000000
+      internalID: 7242360938266461703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb6606ef42772890800000000000000
+      internalID: -7482886568365626446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43318de5a3771d0800000000000000
+      internalID: -3353147218527570752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 15
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dabe5920756ea760800000000000000
+      internalID: 7471020364259048145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9642f1e04cb38360800000000000000
+      internalID: 7170782018558641823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 15
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a9ba0b54f318ae0800000000000000
+      internalID: -1548887228289410430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cfd1946eb071670800000000000000
+      internalID: 8509283104636927070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 15
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878f8aba542eaa10800000000000000
+      internalID: 1922514063029405568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d48fff49ce368d0800000000000000
+      internalID: -2854177614128984746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d43a824b411b200800000000000000
+      internalID: 193959022962101631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GanapiyaLogo_28
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 15
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c3151bdb88ba40800000000000000
+      internalID: 5384207127589144780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GanapiyaLogo_0: 5271849010341320654
+      GanapiyaLogo_1: 4880740658809645127
+      GanapiyaLogo_10: -4338976606464041974
+      GanapiyaLogo_11: -4406862406961408786
+      GanapiyaLogo_12: -7690486046205115273
+      GanapiyaLogo_13: 1180720088160310569
+      GanapiyaLogo_14: -7249434920799442653
+      GanapiyaLogo_15: -4082331629499157964
+      GanapiyaLogo_16: 2250315920834079756
+      GanapiyaLogo_17: 7776088940692005584
+      GanapiyaLogo_18: 7242360938266461703
+      GanapiyaLogo_19: -7482886568365626446
+      GanapiyaLogo_2: -5350693812969725543
+      GanapiyaLogo_20: -3353147218527570752
+      GanapiyaLogo_21: 7471020364259048145
+      GanapiyaLogo_22: 7170782018558641823
+      GanapiyaLogo_23: -1548887228289410430
+      GanapiyaLogo_24: 8509283104636927070
+      GanapiyaLogo_25: 1922514063029405568
+      GanapiyaLogo_26: -2854177614128984746
+      GanapiyaLogo_27: 193959022962101631
+      GanapiyaLogo_28: 5384207127589144780
+      GanapiyaLogo_3: -6414936100506114291
+      GanapiyaLogo_4: -6937020971878186524
+      GanapiyaLogo_5: 7620079420258988080
+      GanapiyaLogo_6: -6596778884674784770
+      GanapiyaLogo_7: -6062078716463250069
+      GanapiyaLogo_8: -4771001953537982110
+      GanapiyaLogo_9: -3361753599781752627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
