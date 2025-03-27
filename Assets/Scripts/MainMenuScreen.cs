@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 namespace Ganapiya
 {
-    public class MainMenuButtonsScreen : MonoBehaviour
+    public class MainMenuScreen : MonoBehaviour
     {
         [Header("Main Menu Buttons")]
         [SerializeField] private Button _signUpButton;
